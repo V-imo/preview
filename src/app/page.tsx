@@ -12,10 +12,10 @@ export default function Home() {
     <div>
       <Card>
         <CardHeader>
-          <CardTitle>V'imo</CardTitle>
+          <CardTitle>V&apos;imo</CardTitle>
         </CardHeader>
         <CardContent>
-          <p>The V'imo app is the best way to manage your inspections</p>
+          <p>The V&apos;imo app is the best way to manage your inspections</p>
         </CardContent>
         <CardFooter>
           <Button>Get Started</Button>
